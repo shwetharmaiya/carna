@@ -19,7 +19,7 @@ export default function Home() {
     <h1 className="text-6xl font-serif font-bold text-orange-500 tracking-tighter">Carna</h1>
     <ThemeToggle />
   </div>
-  <ShrutiBox />
+  <ShrutiBox/>
 </header>
 
         {/* TOP ROW: EQUAL HEIGHT TOOLS */}
