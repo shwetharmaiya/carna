@@ -51,7 +51,7 @@ export default function SwaraPlayer({ baseFreq = 261.63, ragaContext = null }: S
     const baseMap: Record<string, number> = {
       "Sa": 1, "R1": 256/243, "R2": 9/8, "G2": 32/27, "G3": 5/4,
       "M1": 4/3, "M2": 45/32, "Pa": 3/2, "D1": 128/81, "D2": 5/3,
-      "N2": 16/15, "N3": 15/8, "Sa'": 2
+      "N2": 16/9, "N3": 15/8, "Sa'": 2
     };
     return baseFreq * (baseMap[swaraKey] || 1);
   };

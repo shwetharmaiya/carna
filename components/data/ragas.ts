@@ -2,8 +2,8 @@ export const ragas = [
   {
     slug: "shankarabharanam",
     name: "Shankarabharanam",
-    arohanam: "S R2 G3 M1 P D2 N3 S",
-    avarohanam: "S N3 D2 P M1 G3 R2 S",
+    arohanam: "S R2 G3 M1 Pa D2 N3 S",
+    avarohanam: "S N3 D2 Pa M1 G3 R2 S",
     melakarta: 29,
     composer: "Tyagaraja",
     compositions: [
@@ -16,8 +16,8 @@ export const ragas = [
   {
     slug: "mayamalavagowla",
     name: "Mayamalavagowla",
-    arohanam: "S R1 G3 M1 P D1 N3 S",
-    avarohanam: "S N3 D1 P M1 G3 R1 S",
+    arohanam: "S R1 G3 M1 Pa D1 N3 S",
+    avarohanam: "S N3 D1 Pa M1 G3 R1 S",
     melakarta: 15,
     composer: "Tyagaraja",
     compositions: [
@@ -30,8 +30,8 @@ export const ragas = [
   {
     slug: "kalyani",
     name: "Kalyani",
-    arohanam: "S R2 G3 M2 P D2 N3 S",
-    avarohanam: "S N3 D2 P M2 G3 R2 S",
+    arohanam: "S R2 G3 M2 Pa D2 N3 S",
+    avarohanam: "S N3 D2 Pa M2 G3 R2 S",
     melakarta: 65,
     composer: "Tyagaraja",
     compositions: [
